@@ -1,11 +1,5 @@
 ﻿// Проверить истинность утверждения ¬(X ⋁ Y) = ¬X ⋀ ¬Y
 
-
-Console.WriteLine($"1 \n 2");
-/*
-
-
-
 bool[] all = {true, false};
 
 bool result = true;
@@ -34,4 +28,4 @@ if(result)
 } else
 {
     Console.WriteLine($"Доказано что утверждение ложно");
-}*/
+}
